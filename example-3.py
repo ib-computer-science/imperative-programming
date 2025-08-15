@@ -8,4 +8,4 @@ else: # comment to illustrate git use
         result *= n
         n -= 1
 
-    print(result)
+    print(result) # another small change
